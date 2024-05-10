@@ -30,11 +30,9 @@
 * `pkg install python -y`
 * `pkg install git -y`
 * `git clone https://github.com/Sir-Hamxza/Http-Flooder-.git`
-* `cd $HOME`
-* `ls`
-* `cd flood.py`
-* `ls`
+* `cd Http-Flooder-`
 * `python flood.py`
+* `ctrl + z` {for stopping the attack}
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- Can show some error like can't connect , network refuses . Maybe it was because of the network connection or proxy server error.
