@@ -43,10 +43,8 @@
 ## USAGE OPTIONS [Termux] :
 
 
-### If there is an issue in this tool, contact [here](t.me/blacX_hat)
+### If there is an issue in this tool, contact us on Instagram @sir.hamxza or in telegram @blacX_hat
 <p style="color:purple"><b>Connect With Us:</b></p>
-
-``(Tap To Redirect)``
 
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3
