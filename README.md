@@ -29,7 +29,7 @@
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/Sir-Hamxza/flood.py/tree/main`
+* `git clone https://github.com/Sir-Hamxza/Http-Flooder-.git`
 * `cd $HOME`
 * `ls`
 * `cd flood.py`
