@@ -30,7 +30,7 @@
 * `pkg install python -y`
 * `pkg install git -y`
 * `git clone https://github.com/Sir-Hamxza/Http-Flooder-.git`
-* `pip install -r requirements.txt`
+* `pip install requirements.txt -r`
 * `cd Http-Flooder-`
 * `python flood.py`
 * `ctrl + z` {for stopping the attack}
