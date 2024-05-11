@@ -1,3 +1,3 @@
-colorama
-cloudscraper
-pyfiglet
+colorama==0.4.4
+cloudscraper==1.3.4
+pyfiglet==0.8.post1
