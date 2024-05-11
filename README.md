@@ -31,6 +31,9 @@
 * `pkg install git -y`
 * `git clone https://github.com/Sir-Hamxza/Http-Flooder-.git`
 * `pip install requirements.txt -r`
+* `pip install cloudscraper`
+* `pip install colorama`
+* `pip install pyfiglet`
 * `cd Http-Flooder-`
 * `python flood.py`
 * `ctrl + z` {for stopping the attack}
