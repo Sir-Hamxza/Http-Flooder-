@@ -2,7 +2,7 @@
 
 ## ABOUT TOOL :
 
- Http Flood is a python coded script which carry out http flood attack , HTTP flood attack is a type of volumetric distributed denial-of-service (DDoS) attack designed to overwhelm a targeted server with HTTP requests, containing cloudflare bypass with autoproxy, no need to worry about vpn and cloudflare protected website.
+Http Flood is a python coded script which carry out http flood attack , HTTP flood attack is a type of volumetric distributed denial-of-service (DDoS) attack designed to overwhelm a targeted server with HTTP requests, containing cloudflare bypass, no need to worry about cloudflare protected website.
 
 ## AVAILABLE ON :
 
@@ -14,14 +14,14 @@
 
 ### REQUIREMENTS :
 * internet
+* good processor 
 * external storage permission
 
 ## FEATURES :
 * [+] Can Carry Out upto 120 RPS 
 * [+] Updated Maintenance 
 * [+] Easy for beginners !
-* [+] No need to worry about the ip and proxy 
-* [+] Cloudflare bypass and autoproxy 
+* [+] Cloudflare bypass
 
 ## INSTALLATION [Termux] :
 
@@ -30,7 +30,6 @@
 * `pkg install python -y`
 * `pkg install git -y`
 * `git clone https://github.com/Sir-Hamxza/Http-Flooder-.git`
-* `pip install requirements.txt -r`
 * `pip install cloudscraper`
 * `pip install colorama`
 * `pip install pyfiglet`
@@ -47,7 +46,7 @@
 ## USAGE OPTIONS [Termux] :
 
 
-### If there is an issue in this tool, contact us on Instagram @sir.hamxza or in telegram @blacX_hat
+### If there is an issue in this tool, contact us on Instagram @sir.zebit or in telegram @zebit_leford
 <p style="color:purple"><b>Connect With Us:</b></p>
 
 
